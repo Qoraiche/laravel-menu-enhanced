@@ -656,7 +656,7 @@ class Builder
             $items .= "</{$item_tag}>";
 
             if ($item->divider) {
-                $items .= '<'.$item_tag.self::attributes($item->divider).'></'.$item_tag.'>';
+                $items .= '<'.$item_tag.self::attributes($item->divider).'>test</'.$item_tag.'>';
             }
         }
 
