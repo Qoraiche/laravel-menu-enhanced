@@ -74,7 +74,7 @@ __For Laravel 4.x, check [version 1.5.0](https://github.com/lavary/laravel-menu/
 ## Installation
 
 ```bash
-composer require lavary/laravel-menu
+composer require qoraiche/laravel-menu-enhanced
 ```
 
 If you are in Laravel 5.5 you won't need to edit your `config/app.php`, if you are in a previous version of Laravel, please do the following:
