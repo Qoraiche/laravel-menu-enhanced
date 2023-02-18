@@ -1,14 +1,14 @@
 {
-    "name": "lavary/laravel-menu",
+    "name": "qoraiche/laravel-menu-enhanced",
     "description": "A quick way to create menus in Laravel 5",
     "keywords": [
         "laravel"
     ],
-    "homepage": "https://github.com/lavary/laravel-menu",
+    "homepage": "https://github.com/Qoraiche/laravel-menu-enhanced",
     "authors": [
         {
-            "name": "Lavary",
-            "email": "mrl.8081@gmail.com"
+            "name": "qoraiche",
+            "email": "qoraicheofficiel@hotmail.com"
         }
     ],
     "license": "MIT",
